@@ -2,10 +2,7 @@ body {
   text-align: center;
   color: #000f08;
   margin: 0;
-<<<<<<< HEAD
   font-family: 'Open Sans', sans-serif;
-=======
->>>>>>> 855dc54d9dae5a3df6183eb8c5299bde6c5d81ff
 }
 
 body * {
@@ -14,7 +11,6 @@ body * {
   padding: 0;
 }
 
-<<<<<<< HEAD
 h1 {
   font-weight: 800;
   font-size: 3.75em;
@@ -42,8 +38,6 @@ h5 {
   font-weight: 400;
 }
 
-=======
->>>>>>> 855dc54d9dae5a3df6183eb8c5299bde6c5d81ff
 .oscuro {
   background: #000f08;
   color: #ffffff;
@@ -59,10 +53,7 @@ h5 {
   background: #a4452c;
   color: #ffffff;
   padding: 50px;
-<<<<<<< HEAD
   white-space: nowrap;
-=======
->>>>>>> 855dc54d9dae5a3df6183eb8c5299bde6c5d81ff
 }
 
 .hero-section  {
@@ -71,13 +62,8 @@ h5 {
   background-repeat: no-repeat;
   background-size: cover;
   color: #ffffff;
-<<<<<<< HEAD
   text-shadow: 0.125em 0.25em 0.125em #707070;
   padding: 6.25rem 3.125rem;
-=======
-  text-shadow: 2px 3px 2px #707070;
-  padding: 50px 50px 100px 50px;
->>>>>>> 855dc54d9dae5a3df6183eb8c5299bde6c5d81ff
 }
 
 section, footer {
@@ -92,7 +78,6 @@ footer {
   display: inline-block;
 }
 
-<<<<<<< HEAD
 .centrado {
     width: 75%;
     margin: 0 auto;
@@ -164,9 +149,3 @@ footer i {
 .contenido-vegan {
   text-align: left;
     }
-=======
-.vegan {
-  text-align: left;
-  padding: 50px;
-  }
->>>>>>> 855dc54d9dae5a3df6183eb8c5299bde6c5d81ff
